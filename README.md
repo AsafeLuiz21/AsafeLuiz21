@@ -4,7 +4,19 @@
 
 - Entrei na área da informática básica em meados de 2019 e adquirir experiência e habilidades ao longo do tempo. Eu aprendi conceitos e fundamentos essenciais, como hardware, sistemas operacionais, redes e segurança da informação. Além disso, desenvolvi habilidades em solução de problemas, resolução de questões técnicas e trabalho em ambientes digitais.
 
-
+### Educação
+- Designer Gráfico,
+  2018-2020,
+  Uniart, São Paulo - SP
+  ___
+- Marketing Digital/VideoMaker,
+2020-2022,
+Estácio de Sá, Vitoria - Es
+  ___
+- Informática, Word e PowerPoint,
+ 2018-2021,
+ Uniart, São Paulo - SP
+  
 ### Contato
 - Telefone: + 55 (27) 99917-9168
 
